@@ -1,5 +1,8 @@
 # Sales-Insights-using-Tableau-and-MySQL
 
+This sql dump file is of an imaginary company ATLIQ hardware which does their business in India.
+Firstly I did EDA using SQL and after that I imported the dump file into tableau desktop app and cleaned data little bit and prepared a dashboard from the insights I got from EDA.
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
